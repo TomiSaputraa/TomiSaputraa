@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Moepoi (https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) ! :sunglasses:
+I'm Tomi (https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) ! :sunglasses:
 
 I'd like to do project that has relation to anime. :ghost:
 
