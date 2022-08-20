@@ -24,6 +24,6 @@ I'd like to do project that has relation to improve my self. :ghost:
 Feel free to contact me <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/phone-texting.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage">
 <br>
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/ElMorittoo)
-[<img src="https://img.shields.io/badge/LinkedIn-Tomi-informational">](https://www.linkedin.com/in/tomi-saputra-3459b2214/)
-[<img src="https://img.shields.io/badge/Email-tommycodingjj%40gmail.com-red">](mailto:tommycodingjj@gmail.com)
-[<img src="https://img.shields.io/badge/Personal%20Site-elmorito.my.id-red">](http://elmorito.my.id)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tomi-saputra-3459b2214/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:tommycodingjj@gmail.com)
+[<img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">](http://elmorito.my.id)
