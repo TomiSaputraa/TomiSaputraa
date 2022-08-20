@@ -14,13 +14,10 @@ I'd like to do project that has relation to improve my self. :ghost:
 
 :star: Here are some projects that I'm working on:
 <br>https://github.com/TomiSaputraa/sembako_app
-<br>
-
-<img src="https://img.anili.st/user/161753" width="500">
 
 Feel free to contact me :yum:
 <br><br>
-[<img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea">](https://t.me/moepoi)
+[<img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea">](https://t.me/ElMorittoo)
 [<img src="https://img.shields.io/badge/LinkedIn-moepoi-informational">](https://linkedin.com/in/moepoi)
 [<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:moe@chocola.dev)
 [<img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red">](https://moepoi.dev)
