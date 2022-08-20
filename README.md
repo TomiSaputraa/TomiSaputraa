@@ -1,6 +1,4 @@
 ### Hi there <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/Hi.gif" style="max-width: 100%; height: 30px; display: inline-block;" data-target="animated-image.originalImage">
-<i class="fab fa-laravel"></i>
-<x-heroicon-s-heart class="h-6 w-6 text-red-600" />
 
 I'm Tomi saputra <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/glasses-shades-on.gif" style="max-width: 100%; height: 35px; display: inline-block;" data-target="animated-image.originalImage">
 
