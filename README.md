@@ -24,7 +24,7 @@ I'm Tomi saputra <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSa
 <br/>
 
 :star: Here are some projects that I'm working on:
-<br>https://github.com/TomiSaputraa/sembako_app
+## <br>https://github.com/TomiSaputraa/sembako_app
 
 Feel free to contact me <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/phone-texting.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage">
 <br>
