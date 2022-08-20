@@ -20,4 +20,4 @@ Feel free to contact me :yum:
 [<img src="https://img.shields.io/badge/Telegram-%40TommyPutra-28a8ea">](https://t.me/ElMorittoo)
 [<img src="https://img.shields.io/badge/LinkedIn-Tomi-informational">](https://www.linkedin.com/in/tomi-saputra-3459b2214/)
 [<img src="https://img.shields.io/badge/Email-tommycodingjj%40gmail.com-red">](mailto:tommycodingjj@gmail.com)
-[<img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red">](https://elmorito.my.id)
+[<img src="https://img.shields.io/badge/Personal%20elmorito.my.id-red">](http://elmorito.my.id)
