@@ -24,7 +24,7 @@ I'd like to do project that has relation to improve my self. :ghost:
 <img src="https://github-profile-trophy.vercel.app/?username=TomiSaputraa&theme=dracula">
 <br/>
 
-## :star: Here are some projects that I'm working on:
+## <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/star-spinning.gif" style="max-width: 100%; height: 35px; display: inline-block;" data-target="animated-image.originalImage"> Here are some projects that I'm working on:
 <br>https://github.com/TomiSaputraa/sembako_app
 
 ## Feel free to contact me<img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/phone-texting.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage">
