@@ -27,7 +27,7 @@ I'd like to do project that has relation to improve my self. :ghost:
 ## :star: Here are some projects that I'm working on:
 <br>https://github.com/TomiSaputraa/sembako_app
 
-☎️ Feel free to contact me 
+### ☎️ Feel free to contact me 
 <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/phone-texting.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage">
 <br>
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/ElMorittoo)
