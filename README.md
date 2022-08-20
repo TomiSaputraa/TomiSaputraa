@@ -12,6 +12,8 @@ I'd like to do project that has relation to improve my self. :ghost:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 [![TomiSaputraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical)
 <br> <img src="https://github-profile-trophy.vercel.app/?username=TomiSaputraa">
