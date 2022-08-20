@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif
 
 I'm Tomi saputra :sunglasses:
 
