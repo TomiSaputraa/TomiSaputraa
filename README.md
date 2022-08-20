@@ -14,8 +14,7 @@ I'm Tomi saputra <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSa
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<br/>
+## ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 [![TomiSaputraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical)
 <br> 
