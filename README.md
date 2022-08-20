@@ -14,15 +14,6 @@ I'd like to do project that has relation to improve my self. :ghost:
 
 :star: Here are some projects that I'm working on:
 <br>https://github.com/TomiSaputraa/sembako_app
-
-
-
-
-<details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi">
-<img src="https://github-profile-trophy.vercel.app/?username=moepoi">
-</details>
 <br>
 
 <img src="https://img.anili.st/user/161753" width="500">
