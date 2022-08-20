@@ -10,7 +10,7 @@ I'd like to do project that has relation to improve my self. :ghost:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%230175C2.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-[![TomiSaputraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical)](https://github.com/TomiSaputraa/github-readme-stats)
+[![TomiSaputraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical)
 <br> <img src="https://github-profile-trophy.vercel.app/?username=TomiSaputraa">
 
 :star: Here are some projects that I'm working on:
