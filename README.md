@@ -9,7 +9,7 @@ I'd like to do project that has relation to improve my self. :ghost:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![TomiSaputraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical)](https://github.com/TomiSaputraa/github-readme-stats)
 
 :star: Here are some projects that I'm working on:
 //add project here
