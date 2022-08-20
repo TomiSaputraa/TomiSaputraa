@@ -1,9 +1,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/Hi.gif" style="max-width: 100%; height: 30px; display: inline-block;" data-target="animated-image.originalImage">
 
-I'm Tomi saputra <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/glasses-shades-on.gif" style="max-width: 100%; height: 35px; display: inline-block;" data-target="animated-image.originalImage"> <br>
-
+I'm Tomi saputra <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/glasses-shades-on.gif" style="max-width: 100%; height: 35px; display: inline-block;" data-target="animated-image.originalImage">
+<br>
 I'd like to do project that has relation to improve my self. :ghost:
-
 ## <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/peach-cat-mochi-peach-cat.gif" style="max-width: 100%; height: 40px; display: inline-block;" data-target="animated-image.originalImage"> I'm currently learning programing & tools : 
 <br>
 
