@@ -2,9 +2,9 @@
 
 I'm Tomi saputra <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/glasses-shades-on.gif" style="max-width: 100%; height: 35px; display: inline-block;" data-target="animated-image.originalImage">
 
-## I'd like to do project that has relation to improve my self. :ghost:
+I'd like to do project that has relation to improve my self. :ghost:
 
-<img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/peach-cat-mochi-peach-cat.gif" style="max-width: 100%; height: 30px; display: inline-block;" data-target="animated-image.originalImage"> I'm currently learning programing & tools : 
+## <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/peach-cat-mochi-peach-cat.gif" style="max-width: 100%; height: 30px; display: inline-block;" data-target="animated-image.originalImage"> I'm currently learning programing & tools : 
 <br><br>
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
