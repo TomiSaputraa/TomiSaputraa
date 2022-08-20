@@ -17,8 +17,7 @@ I'd like to do project that has relation to improve my self. :ghost:
 <br>https://github.com/TomiSaputraa/sembako_app
 
 Feel free to contact me <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/phone-texting.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage">
-<br><br>
-
+<br>
 [<img src="https://img.shields.io/badge/Telegram-%40TommyPutra-28a8ea">](https://t.me/ElMorittoo)
 [<img src="https://img.shields.io/badge/LinkedIn-Tomi-informational">](https://www.linkedin.com/in/tomi-saputra-3459b2214/)
 [<img src="https://img.shields.io/badge/Email-tommycodingjj%40gmail.com-red">](mailto:tommycodingjj@gmail.com)
