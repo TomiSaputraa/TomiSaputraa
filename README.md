@@ -18,6 +18,6 @@ I'd like to do project that has relation to improve my self. :ghost:
 Feel free to contact me :yum:
 <br><br>
 [<img src="https://img.shields.io/badge/Telegram-%40TommyPutra-28a8ea">](https://t.me/ElMorittoo)
-[<img src="https://img.shields.io/badge/LinkedIn-moepoi-informational">](https://www.linkedin.com/in/tomi-saputra-3459b2214/)
-[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:tommycodingjj@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-Tomi-informational">](https://www.linkedin.com/in/tomi-saputra-3459b2214/)
+[<img src="https://img.shields.io/badge/Email-tommycodingjj%40gmail.com-red">](mailto:tommycodingjj@gmail.com)
 [<img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red">](https://elmorito.my.id)
