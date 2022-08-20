@@ -10,7 +10,7 @@ I'd like to do project that has relation to improve my self. :ghost:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 :star: Here are some projects that I'm working on:
-https://github.com/TomiSaputraa/sembako_app
+<br>https://github.com/TomiSaputraa/sembako_app
 
 [![TomiSaputraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical)](https://github.com/TomiSaputraa/github-readme-stats)
 
