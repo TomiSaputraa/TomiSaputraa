@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/Hi.gif" style="max-width: 100%; height: 30px; display: inline-block;" data-target="animated-image.originalImage">
 
-I'm Tomi saputra <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/glasses-shades-on.gif" style="max-width: 100%; height: 35px; display: inline-block;" data-target="animated-image.originalImage">
+## I'm Tomi saputra <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/glasses-shades-on.gif" style="max-width: 100%; height: 35px; display: inline-block;" data-target="animated-image.originalImage">
 
 I'd like to do project that has relation to improve my self. :ghost:
 
@@ -18,7 +18,10 @@ I'd like to do project that has relation to improve my self. :ghost:
 <br/>
 
 [![TomiSaputraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical)
-<br> <img src="https://github-profile-trophy.vercel.app/?username=TomiSaputraa&theme=dracula">
+<br> 
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=TomiSaputraa&theme=dracula">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomiSaputraa&layout=compact&theme=dracula">
 <br/>
 
