@@ -11,6 +11,9 @@ I'd like to do project that has relation to improve my self. :ghost:
 
 
 :star: Here are some projects that I'm working on:
+//add project here
+
+https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical
 
 
 <details>
