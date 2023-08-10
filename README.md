@@ -21,7 +21,6 @@ https://github.com/taiko02
 <br> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomiSaputraa&layout=compact&theme=dracula">
-<img src="https://github-profile-trophy.vercel.app/?username=TomiSaputraa&theme=dracula">
 
 ## <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/star-spinning.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage"> Here are some projects that I'm working on:
 <br>https://github.com/TomiSaputraa/sembako_app
