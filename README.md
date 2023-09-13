@@ -4,7 +4,6 @@ I'm
 I'd like to do project that has relation to improve my self. :ghost:
 
 ## Arsip repositories here below 🔽
-![Git](https://github.com/taiko02)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/taiko02)
 
 ## <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/peach-cat-mochi-peach-cat.gif" style="max-width: 100%; height: 40px; display: inline-block;" data-target="animated-image.originalImage"> I'm currently learning programing & tools : 
