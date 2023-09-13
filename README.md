@@ -29,5 +29,3 @@ https://github.com/taiko02
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/ElMorittoo)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tomi-saputra)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:tommyunivjj@gmail.com)
-[<img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">](http://tomisaputra.my.id)
