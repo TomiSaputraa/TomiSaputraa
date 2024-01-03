@@ -17,13 +17,18 @@ I'd like to do project that has relation to improve my self. :ghost:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 Github Stat
-[![TomiSaputraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=radical)
+<div align="center">
+  
+  [![TomiSaputraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=chartreuse-dark)
 <br> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomiSaputraa&layout=compact&theme=dracula">
+</div>
+
 
 ## <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/star-spinning.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage"> Here are some projects that I'm working on:
-<br>https://github.com/TomiSaputraa/sembako_app
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomisaputraa&repo=sembako_app&theme=dracula)](https://github.com/tomisaputraa/github-readme-stats)
 
 ## Feel free to contact me<img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/phone-texting.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage">
 
