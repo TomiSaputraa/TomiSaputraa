@@ -22,7 +22,7 @@ I'd like to do project that has relation to improve my self. :ghost:
   [![TomiSaputraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=chartreuse-dark)
 <br> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomiSaputraa&layout=compact&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomiSaputraa&hide_progress=true&theme=dracula">
 </div>
 
 
