@@ -28,8 +28,10 @@ I'd like to do project that has relation to improve my self. :ghost:
 
 ## <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/star-spinning.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage"> Here are some projects that I'm working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomisaputraa&repo=sembako_app&theme=dracula)](https://github.com/tomisaputraa/github-readme-stats)
+<div align="center">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomisaputraa&repo=sembako_app&theme=dracula)](https://github.com/tomisaputraa/github-readme-stats)
+</div>
 ## Feel free to contact me<img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/phone-texting.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage">
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/ElMorittoo)
