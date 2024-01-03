@@ -1,9 +1,9 @@
-## Hi there <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/Hi.gif" style="max-width: 100%; height: 30px; display: inline-block;" data-target="animated-image.originalImage">
+# Hi there <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/Hi.gif" style="max-width: 100%; height: 30px; display: inline-block;" data-target="animated-image.originalImage">
 I'm
 [![](https://github.com/TomiSaputraa/TomiSaputraa/blob/main/tomi.gif)](https://tomisaputra.my.id/)
 I'd like to do project that has relation to improve my self. :ghost:
 
-## Arsip repositories here below 🔽
+# Arsip repositories here below 🔽
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/taiko02)
 
 ## <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/peach-cat-mochi-peach-cat.gif" style="max-width: 100%; height: 40px; display: inline-block;" data-target="animated-image.originalImage"> I'm currently learning programing & tools : 
@@ -16,7 +16,7 @@ I'd like to do project that has relation to improve my self. :ghost:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Github Stat
+# 📊 Github Stat
 <div align="center">
   
   [![TomiSaputraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=TomiSaputraa&show_icons=true&theme=chartreuse-dark)
@@ -26,13 +26,14 @@ I'd like to do project that has relation to improve my self. :ghost:
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/star-spinning.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage"> Here are some projects that I'm working on:
+# <img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/star-spinning.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage"> Here are some projects that I'm working on:
 
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomisaputraa&repo=sembako_app&theme=dracula)](https://github.com/tomisaputraa/github-readme-stats)
 </div>
-## Feel free to contact me<img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/phone-texting.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage">
+
+# Feel free to contact me<img src="https://raw.githubusercontent.com/TomiSaputraa/TomiSaputraa/main/phone-texting.gif" style="max-width: 100%; height: 25px; display: inline-block;" data-target="animated-image.originalImage">
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/ElMorittoo)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tomi-saputra)
